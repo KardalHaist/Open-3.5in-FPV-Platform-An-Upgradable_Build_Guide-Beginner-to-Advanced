@@ -1,0 +1,6 @@
+vtx_state,set_power_mw,current_a,power_w,pack_voltage_v,source
+unplugged,0,0.10,1.6,16.34,media/screenshots/vtx-current-unplugged.png
+plugged_in,25,0.18,2.9,16.33,media/screenshots/vtx-current-25mw-plugged-in.png
+plugged_in,200,0.14,2.3,16.27,media/screenshots/vtx-current-200mw.png
+plugged_in,1000,0.18,2.9,16.27,media/screenshots/vtx-current-1w.png
+plugged_in,1000,0.14,2.3,16.23,media/screenshots/vtx-current-1w-retest.png
